@@ -7,8 +7,9 @@
 
 ## Funcionalidades
 
-- #### Permite consultar, criar e alterar contatos no celular.
-- #### Anexo de Imagens,Permite ligar para contato.    
+- #### Permite escolher gifs para enviar por onde quiser(Whatts,Telegram).
+- #### Permite escolher o gif de acordo com o filtro digitado.
+
 ------------
 
 ## Como instalar
@@ -37,15 +38,5 @@ Após a finalização do build, o app poderá ser acessado em um dispositivo fí
 
 ### Back-end
 
-- sqflite
+- Api de Gifs na web:https://api.giphy.com
 
-## Features a serem implementadas
-#### Frond-end
-
-- UX
-- Componentização
-- Módulos
-
-#### Back-end
-
-- Integração com Telegram.
