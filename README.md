@@ -1,6 +1,6 @@
 # Agenda de contatos
 
-![](https://raw.githubusercontent.com/HerickJhones11/agenda_contatos/main/images/app_image2.png)
+![](https://raw.githubusercontent.com/HerickJhones11/buscador-gif/master/images/buscador_gif.png)
 
 
 ------------
